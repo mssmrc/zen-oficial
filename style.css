@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #1f2025;
+    font-weight: bold;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header div{
+    display: flex;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0 5px;
+}
+
+h1{
+    margin-left: 20px;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 30px;
+}
+
+h2{
+    margin-left: 180px;
+    color: white;
+    font-size: 70px;
+    font-family: 'Encode Sans Condensed', sans-serif; 
+}
+
+h3{
+    margin-left: 180px;
+    font-size: 70px;
+    color: rgb(7, 3, 3);
+    font-family:'Encode Sans Condensed', sans-serif; 
+}
+
+h4{
+    margin-left: 180px;
+    font-size: 70px;
+    color: rgb(7, 7, 7);
+    font-family: 'Encode Sans Condensed', sans-serif; 
+}
+
+h5{
+    margin-left: 120px;
+    font-size: 70px;
+    color: black;
+    font-family: 'Encode Sans Condensed', sans-serif; 
+}
+
+.funcionalidade{
+    background-image: url(img/capa-52.png);
+    color: black;
+    height: 600px;
+    overflow: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.what{
+    background-image: url(img/capa-1.jpg);
+    background-size: cover;
+    height: 600px;
+    overflow: auto;
+    
+    
+}
+
+.resultado{
+    height: 600px;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;  
+}
+
+.quem-somos{
+    background-image: url(img/capa-3.jpg);
+    background-size: cover;
+    height: 600px;
+    overflow: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+    
+.what{
+    color:rgb(248, 248, 248);
+}
+
+.d1{
+    font-size: 60px;
+
+}
+
+p{
+    margin-left: 180px;
+    font-size: 30px;
+    font-family:'Encode Sans Condensed', sans-serif; 
+
+}
